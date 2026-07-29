@@ -1,0 +1,14 @@
+----------INSTALL----------
+
+SpeechRecognition==3.14.3
+pyttsx3==2.99
+PyAudio==0.2.14
+
+----------COMMON NEEDS----------
+
+speech_recognition
+pyttsx3
+smtplib
+imaplib
+email
+json
